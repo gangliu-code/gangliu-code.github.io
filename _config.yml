@@ -1,6 +1,6 @@
-title: Researcher
+title: Researcher123
 url: "https://gangliu-code.github.io"
-baseurl: "/index"
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
