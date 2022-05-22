@@ -36,6 +36,10 @@
         padding: 2px 8px 2px 8px;
         font-style: italic;
     }
+    .profiles {
+        position: relative;
+        float: right;
+    }
     .profile-picture {
         height: $image-size;
         width: $image-size;
