@@ -46,7 +46,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
     </td>
     <td width="0%" valign="middle">
         <a href="https://www.google.com/">
-        <papertitle> Learning from Counterfactual Links for Link Prediction </papertitle>
+        <papertitle> Learning from Counterfactual Links for Link Prediction [link](http://google.com) </papertitle>
         </a>
         <br>
         Tong Zhao, Gang Liu, Daheng Wang, Wenhao Yu, and Meng Jiang.
