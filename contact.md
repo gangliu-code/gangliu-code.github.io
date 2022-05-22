@@ -1,7 +1,7 @@
 ---
 layout: default
 is_contact: true
-title: contact
+title: Contact
 ---
 
 * Email: [foo@xyz.com](mailto:foo@xyz.com)
