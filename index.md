@@ -39,10 +39,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
     </td>
     </tr>
 </tbody></table>
-4. <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+4. <table class='single-paper'><tbody>
     <tr>
-    <td style="padding:20px;width:160px;vertical-align:middle">
-        <img src="sherlock.jpg" alt="xxx" width="160" style="border-style: none">
+    <td class='paper-picture'>
+        <img src="sherlock.jpg" alt="xxx" class='paper-img'>
     </td>
     <td width="0%" valign="middle">
         <a href="https://www.google.com/">
