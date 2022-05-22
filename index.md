@@ -74,6 +74,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis.
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=SIgUfW7q00755AJP8-QTY1VPTwwd0xgpI9TZMEikScY&cl=ffffff&w=a"></script>
+
 <!-- ## Misc. {#sec}
 
 You can also find me here: 
