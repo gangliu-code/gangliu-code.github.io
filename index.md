@@ -63,21 +63,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis.
 
-## Misc.
+## Misc {#sec}.
 
 You can also find me here: 
-<ul id="navlist" class="alignable pull-right navbar-ul">
-    <li class="alignable pull-left nav-list" onclick="window.open('https://github.com/gangliu-code')" style="cursor: pointer">
+<p>
+    <span onclick="window.open('https://github.com/gangliu-code')" style="cursor: pointer">
         <i class="fa fa-github"></i>
-    </li> 
-    <li class="alignable pull-left nav-list" onclick="window.open('https://scholar.google.com/citations?user=zdF3vTYAAAAJ&hl=zh-CN')" style="cursor: pointer">
+    </span> 
+    <span  onclick="window.open('https://scholar.google.com/citations?user=zdF3vTYAAAAJ&hl=zh-CN')" style="cursor: pointer">
         <i class="ai ai-google-scholar-square"></i>
-    </li> 
-    <li class="alignable pull-left nav-list" onclick="window.open('https://www.researchgate.net/profile/Gang-Liu-87')" style="cursor: pointer">
+    </span> 
+    <span  onclick="window.open('https://www.researchgate.net/profile/Gang-Liu-87')" style="cursor: pointer">
         <i class="fa-brands fa-researchgate"></i>
-    </li>
-</ul>
-
+    </span>
+</p>
 <!-- ## Typography
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
