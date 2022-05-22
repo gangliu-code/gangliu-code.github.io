@@ -11,7 +11,7 @@ html {
 }
 body {
     margin: 0;
-    font-family: "Inconsolata";
+    font-family: "Helvetica";
     height: 100%;
 }
 
@@ -126,6 +126,10 @@ hr {
 	#navlist li.nav-list {
 		margin: 0;
 	}
+}
+
+#sec {
+  font-family: "Inconsolata";
 }
 
 @import "typography";
