@@ -29,6 +29,9 @@ hr {
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 
+#sec {
+  font-family: "Inconsolata";
+}
 /*
  * Navbar
  */
@@ -37,6 +40,7 @@ hr {
     font-size: 30px;
     color: #272727;
     display: inline-block;
+    font-family: "Inconsolata";
 }
 .navbar {
     padding: 50px 0 50px 0;
@@ -128,9 +132,6 @@ hr {
 	}
 }
 
-#sec, #author-name {
-  font-family: "Inconsolata";
-}
 
 @import "typography";
 @import "tables";
