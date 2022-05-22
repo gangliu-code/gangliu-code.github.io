@@ -22,7 +22,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-3. <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+3. <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody style="border-style: none!importan">
     <tr>
     <td style="padding:20px;width:160px;vertical-align:middle">
         <img src="sherlock.jpg" alt="xxx" width="160" style="border-style: none">
