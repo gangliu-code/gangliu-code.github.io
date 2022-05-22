@@ -6,7 +6,7 @@ remote_theme: ankitsultana/researcher@gem
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
-tracking_id: #1
+tracking_id: True
 
 footer: yes
 footer_url: "gangliu-code.github.io"
