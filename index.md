@@ -67,13 +67,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 You can also find me here: 
 <ul id="navlist" class="alignable pull-right navbar-ul">
-    <li onclick="window.open('https://github.com/gangliu-code')" style="cursor: pointer">
+    <li class="alignable pull-left nav-list" onclick="window.open('https://github.com/gangliu-code')" style="cursor: pointer">
         <i class="fa fa-github"></i>
     </li> 
-    <li onclick="window.open('https://scholar.google.com/citations?user=zdF3vTYAAAAJ&hl=zh-CN')" style="cursor: pointer">
+    <li class="alignable pull-left nav-list" onclick="window.open('https://scholar.google.com/citations?user=zdF3vTYAAAAJ&hl=zh-CN')" style="cursor: pointer">
         <i class="ai ai-google-scholar-square"></i>
     </li> 
-    <li onclick="window.open('https://www.researchgate.net/profile/Gang-Liu-87')" style="cursor: pointer">
+    <li class="alignable pull-left nav-list" onclick="window.open('https://www.researchgate.net/profile/Gang-Liu-87')" style="cursor: pointer">
         <i class="fa-brands fa-researchgate"></i>
     </li>
 </ul>
