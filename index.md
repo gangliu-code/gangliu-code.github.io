@@ -1,6 +1,6 @@
 ---
 layout: default
-title: welcome
+title: Welcome
 ---
 
 ## About Me {#sec} 
