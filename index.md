@@ -20,9 +20,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 ## Publications {#sec}
 
+#### Conference
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-[3C]. <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto"><tbody>
+3. <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto"><tbody>
     <tr>
     <td style="padding:20px;width:160px;vertical-align:middle">
         <img src="https://miro.medium.com/max/1056/1*He82WUfs0g2TcD50TBvnqw.png" alt="Learning from Counterfactual Links for Link Prediction" width="160" style="border-style: none!importan">
