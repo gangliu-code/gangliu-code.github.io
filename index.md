@@ -22,7 +22,30 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-3. <img style="float: right;" src="https://theaisummer.com/static/cb743cf6762bf14d48c1548bf0f0fe1f/29d31/gnn.jpg"> I am text to the left
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+<tr>
+<td style="padding:20px;width:160px;vertical-align:middle">
+  <img src="images/chen2022interpretable.png" alt="Interpretable RNA Foundation Model from Unannotated Data for Highly Accurate RNA Structure and Function Predictions" width="160" style="border-style: none">
+</td>
+<td width="0%" valign="middle">
+  <a href="https://arxiv.org/abs/2204.00300">
+    <papertitle>Interpretable RNA Foundation Model from Unannotated Data for Highly Accurate RNA Structure and Function Predictions</papertitle>
+  </a>
+  <br>
+  Jiayang Chen*, Zhihang Hu*, <a href="https://intersun.github.io/">Siqi Sun*</a><sup>#</sup>, Qingxiong Tan, Yixuan Wang, Qinze Yu, 
+  <strong>Licheng Zong</strong>, Liang Hong, Jin Xiao, Irwin King 
+  <a href="https://liyu95.com/">Yu Li</a><sup>#</sup>
+  <br/>
+  <em><strong>arXiv Preprint</strong></em>, 2022
+  <br>
+  <a href="data/chen2022interpretable">bibtex</a>
+  <p>We propose a novel RNA foundation model (RNA-FM) that can serve as the foundational model for the field. 
+    The model takes advantage of all the 23 million non-coding RNA sequences through self-supervised learning.
+    It's effective in downstream tasks including secondary/3D structure prediction, protein-RNA binding preference modeling, and 5' UTR-based mean ribosome loading prediction.</p>
+</td>
+</tr>
+</tbody></table>
 
 ## Service {#sec}
 
