@@ -22,6 +22,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+3. <div class="single-paper"> <img class="paper-picture" src="sherlock.jpg"> <p class="paper-title"> Consequences of living with a sociopath in London </p> <p class="paper-author"> S.Holmes, J.Watson </p> <p class="paper-venue"> ABCD Conference </p>  </div>
+4. <div class="single-paper"> <img class="paper-picture" src="sherlock.jpg"> <p class="paper-title"> 22Consequences of living with a sociopath in London </p> <p class="paper-author"> S.Holmes, J.Watson </p> <p class="paper-venue"> ABCD Conference </p>  </div>
 
 ## Service {#sec}
 
