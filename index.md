@@ -20,6 +20,7 @@ Thiss is a jekyll based resume template. You can find the full source code on [G
 <p onclick="window.open('https://www.researchgate.net/profile/Gang-Liu-87')" style="cursor: pointer">
     <i class="fa-brands fa-researchgate" aria-hidden="true"></i>
 </p>
+
 ## Research Interest {#sec}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
