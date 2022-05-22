@@ -6,7 +6,16 @@ title: Welcome
 ## About Me {#sec} 
 
 <img class="profile-picture" src="sherlock.jpg">
-    
+<p onclick="window.open('https://github.com/gangliu-code')" style="cursor: pointer">
+    <i class="fa-brands fa-github"></i>
+</p> 
+<p onclick="window.open('https://scholar.google.com/citations?user=zdF3vTYAAAAJ&hl=zh-CN')" style="cursor: pointer">
+    <i class="fa-solid fa-graduation-cap"></i>
+</p> 
+<p onclick="window.open('https://www.researchgate.net/profile/Gang-Liu-87')" style="cursor: pointer">
+    <i class="fa-brands fa-researchgate"></i>
+</p>
+
 Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
 
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
