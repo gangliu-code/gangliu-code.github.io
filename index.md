@@ -39,7 +39,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
     </td>
     </tr>
 </tbody></table>
-
 4. <table class='single-paper'><tbody>
     <tr>
     <td class='paper-picture'>
