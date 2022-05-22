@@ -42,21 +42,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 4. <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
     <tr>
     <td style="padding:20px;width:160px;vertical-align:middle">
-        <img src="sherlock.jpg" alt="xxx" width="160" style="border-style: none">
+        <img src="https://miro.medium.com/max/1056/1*He82WUfs0g2TcD50TBvnqw.png" alt="Learning from Counterfactual Links for Link Prediction" width="160" style="border-style: none">
     </td>
     <td width="0%" valign="middle">
         <a href="https://www.google.com/">
-        <papertitle>paper title here</papertitle>
+        <papertitle> Learning from Counterfactual Links for Link Prediction </papertitle>
         </a>
         <br>
-        author-1, author-2, xxx
+        Tong Zhao, Gang Liu, Daheng Wang, Wenhao Yu, and Meng Jiang.
         <br/>
-        **arXiv Preprint**, 2022
+        <em><strong>International Conference on Machine Learning</strong></em>, 2022
         <br>
     </td>
     </tr>
     </tbody></table>
-5. <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+<!-- 5. <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
     <tr style="border-style: none!importan">
     <td style="padding:20px;width:160px;vertical-align:middle;border-style: none!importan">
         <img src="https://miro.medium.com/max/1056/1*He82WUfs0g2TcD50TBvnqw.png" alt="Learning from Counterfactual Links for Link Prediction" width="160" style="border-style: none!important">
@@ -72,7 +72,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
         <br>
     </td>
     </tr>
-    </tbody></table>
+    </tbody></table> -->
 
 ## Service {#sec}
 
