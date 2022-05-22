@@ -1,4 +1,4 @@
-title: First Name Last Name [中文]
+title: First Name Last Name / 中文
 url: "https://gangliu-code.github.io"
 baseurl: ""
 remote_theme: ankitsultana/researcher@gem
@@ -18,7 +18,7 @@ sass:
 
 nav:
  - name: "About"
-   link: ""
+   link: "About"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
