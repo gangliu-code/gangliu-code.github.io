@@ -6,7 +6,7 @@ remote_theme: ankitsultana/researcher@gem
 markdown: kramdown
 # ins_logo: "./bits-logo.png"
 
-tracking_id: True
+tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/ankitsultana/researcher"
@@ -18,7 +18,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "About"
+   link: "/About/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
