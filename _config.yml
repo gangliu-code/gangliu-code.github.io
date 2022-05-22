@@ -1,6 +1,6 @@
 title: First Name Last Name / 中文
 url: "https://gangliu-code.github.io"
-baseurl: ""
+baseurl: "/About"
 remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
