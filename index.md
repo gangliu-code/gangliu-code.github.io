@@ -22,7 +22,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-3. | ![Flowers](https://theaisummer.com/static/cb743cf6762bf14d48c1548bf0f0fe1f/29d31/gnn.jpg) | I am text to the left |
+3. <img style="float: right;" src="https://theaisummer.com/static/cb743cf6762bf14d48c1548bf0f0fe1f/29d31/gnn.jpg"> I am text to the left
 
 ## Service {#sec}
 
