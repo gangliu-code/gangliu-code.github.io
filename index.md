@@ -39,7 +39,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
     </td>
     </tr>
     </tbody></table>
-4. <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;border-style: none!importan"><tbody>
+4. <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto"><tbody>
     <tr>
     <td style="padding:20px;width:160px;vertical-align:middle">
         <img src="https://miro.medium.com/max/1056/1*He82WUfs0g2TcD50TBvnqw.png" alt="Learning from Counterfactual Links for Link Prediction" width="160" style="border-style: none!importan">
