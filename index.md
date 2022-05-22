@@ -22,8 +22,41 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-3. <div class="single-paper"> <img class="paper-picture" src="sherlock.jpg"> <p class="paper-title"> Consequences of living with a sociopath in London </p> <p class="paper-author"> S.Holmes, J.Watson </p> <p class="paper-venue"> ABCD Conference </p>  </div>
-4. <div class="single-paper"> <img class="paper-picture" src="sherlock.jpg"> <p class="paper-title"> 22Consequences of living with a sociopath in London </p> <p class="paper-author"> S.Holmes, J.Watson </p> <p class="paper-venue"> ABCD Conference </p>  </div>
+3. <table class='single-paper'><tbody>
+    <tr>
+    <td class='paper-picture'>
+        <img src="sherlock.jpg" alt="xxx" class='paper-img'>
+    </td>
+    <td width="0%" valign="middle">
+        <a href="https://www.google.com/">
+        <papertitle>paper title here</papertitle>
+        </a>
+        <br>
+        author-1, author-2, xxx
+        <br/>
+        <em><strong>arXiv Preprint</strong></em>, 2022
+        <br>
+    </td>
+    </tr>
+</tbody></table>
+4. <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+    <tr>
+    <td style="padding:20px;width:160px;vertical-align:middle">
+        <img src="sherlock.jpg" alt="xxx" width="160" style="border-style: none">
+    </td>
+    <td width="0%" valign="middle">
+        <a href="https://www.google.com/">
+        <papertitle>paper title here</papertitle>
+        </a>
+        <br>
+        author-1, author-2, xxx
+        <br/>
+        <em><strong>arXiv Preprint</strong></em>, 2022
+        <br>
+    </td>
+    </tr>
+</tbody></table>
+
 
 ## Service {#sec}
 
