@@ -6,6 +6,9 @@ title: Welcome
 ## About Me {#sec} 
 
 <img class="profile-picture" src="sherlock.jpg">
+<span onclick="window.open('{{ site.data.main_info.github }}')" style="cursor: pointer">
+    <i class="fa fa-github" aria-hidden="true"></i>
+</span>
 
 Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
 
