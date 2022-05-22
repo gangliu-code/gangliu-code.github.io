@@ -1,7 +1,7 @@
 @import "vars";
 
 /*
- * Basic
+ * Basic Inconsolata Helvetica
  */
 
 html {
@@ -11,9 +11,10 @@ html {
 }
 body {
     margin: 0;
-    font-family: "Helvetica";
+    font-family: "Inconsolata";
     height: 100%;
 }
+
 a {
     text-decoration: none;
     color: $accent;
