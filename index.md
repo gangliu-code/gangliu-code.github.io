@@ -38,7 +38,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
         <br>
     </td>
     </tr>
-</tbody></table>
+    </tbody></table>
 4. <table class='single-paper'><tbody>
     <tr>
     <td class='paper-picture'>
@@ -55,7 +55,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
         <br>
     </td>
     </tr>
-</tbody></table>
+    </tbody></table>
 
 
 ## Service {#sec}
