@@ -1,6 +1,6 @@
-title: First Name Last Name / 中
+title: First Name Last Name / 中文
 url: "https://gangliu-code.github.io"
-baseurl: "/About"
+baseurl: "https://gangliu-code.github.io"
 remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
@@ -18,7 +18,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/About/"
+   link: "https://gangliu-code.github.io"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
