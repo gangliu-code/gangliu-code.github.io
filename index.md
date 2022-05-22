@@ -58,28 +58,25 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
     </td>
     </tr>
     </tbody></table>
-<!-- 5. <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-    <tr style="border-style: none!importan">
-    <td style="padding:20px;width:160px;vertical-align:middle;border-style: none!importan">
-        <img src="https://miro.medium.com/max/1056/1*He82WUfs0g2TcD50TBvnqw.png" alt="Learning from Counterfactual Links for Link Prediction" width="160" style="border-style: none!important">
-    </td>
-    <td width="0%" valign="middle">
-        <a href="https://www.google.com/">
-        <papertitle> Learning from Counterfactual Links for Link Prediction </papertitle>
-        </a>
-        <br>
-        Tong Zhao, Gang Liu, Daheng Wang, Wenhao Yu, and Meng Jiang.
-        <br/>
-        <em><strong>International Conference on Machine Learning</strong></em>, 2022
-        <br>
-    </td>
-    </tr>
-    </tbody></table> -->
 
 ## Service {#sec}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis.
 
+## Misc.
+
+You can also find me here: 
+<ul id="navlist" class="alignable pull-right navbar-ul">
+    <li onclick="window.open('https://github.com/gangliu-code')" style="cursor: pointer">
+        <i class="fa fa-github"></i>
+    </li> 
+    <li onclick="window.open('https://scholar.google.com/citations?user=zdF3vTYAAAAJ&hl=zh-CN')" style="cursor: pointer">
+        <i class="ai ai-google-scholar-square"></i>
+    </li> 
+    <li onclick="window.open('https://www.researchgate.net/profile/Gang-Liu-87')" style="cursor: pointer">
+        <i class="fa-brands fa-researchgate"></i>
+    </li>
+</ul>
 
 <!-- ## Typography
 
