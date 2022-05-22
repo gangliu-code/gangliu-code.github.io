@@ -4,13 +4,13 @@ baseurl: "/"
 remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
-ins_logo: "./bits-logo.png"
+# ins_logo: "./bits-logo.png"
 
 tracking_id: True
 
 footer: yes
-footer_url: "gangliu-code.github.io"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/ankitsultana/researcher"
+footer_text: "Templated adapted from Ankit Sultana"
 
 sass:
     style: compressed
