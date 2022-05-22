@@ -63,7 +63,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis.
 
-## Misc. {#sec}
+<!-- ## Misc. {#sec}
 
 You can also find me here: 
 <span onclick="window.open('https://github.com/gangliu-code')" style="cursor: pointer">
@@ -74,7 +74,7 @@ You can also find me here:
 </span> 
 <span  onclick="window.open('https://www.researchgate.net/profile/Gang-Liu-87')" style="cursor: pointer">
     <i class="fab fa-fw fa-researchgate"></i>
-</span>
+</span> -->
 
 <!-- 
 This is a [link](http://google.com). Something *italics* and something **bold**.
