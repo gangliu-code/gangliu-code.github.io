@@ -66,17 +66,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 ## Misc. {#sec}
 
 You can also find me here: 
-<p>
-    <span onclick="window.open('https://github.com/gangliu-code')" style="cursor: pointer">
-        <i class="fa fa-github"></i>
-    </span> 
-    <span  onclick="window.open('https://scholar.google.com/citations?user=zdF3vTYAAAAJ&hl=zh-CN')" style="cursor: pointer">
-        <i class="ai ai-google-scholar-square"></i>
-    </span> 
-    <span  onclick="window.open('https://www.researchgate.net/profile/Gang-Liu-87')" style="cursor: pointer">
-        <i class="fa-brands fa-researchgate"></i>
-    </span>
-</p>
+<span onclick="window.open('https://github.com/gangliu-code')" style="cursor: pointer">
+    <i class="fab fa-github-square" aria-hidden="true"></i>
+</span> 
+<span  onclick="window.open('https://scholar.google.com/citations?user=zdF3vTYAAAAJ&hl=zh-CN')" style="cursor: pointer">
+    <i class="fas fa-graduation-cap" aria-hidden="true"></i>
+</span> 
+<span  onclick="window.open('https://www.researchgate.net/profile/Gang-Liu-87')" style="cursor: pointer">
+    <i class="fab fa-fw fa-researchgate"></i>
+</span>
 <!-- ## Typography
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
