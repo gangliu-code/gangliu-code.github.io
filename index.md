@@ -7,16 +7,14 @@ title: Welcome
 
 <div class="profiles">
     <img class="profile-picture" src="sherlock.jpg">
-    <p>
-        <span onclick="window.open('https://github.com/gangliu-code')" style="cursor: pointer">
-            <i class="fa fa-github" aria-hidden="true"></i>
-        </span>
-        <span onclick="window.open('https://scholar.google.com/citations?user=zdF3vTYAAAAJ&hl=zh-CN')" style="cursor: pointer">
-            <i class="ai ai-google-scholar-square" aria-hidden="true"></i>
-        </span>
-        <span onclick="window.open('https://www.researchgate.net/profile/Gang-Liu-87')" style="cursor: pointer">
-            <i class="fa-brands fa-researchgate" aria-hidden="true"></i>
-        </span>
+    <p onclick="window.open('https://github.com/gangliu-code')" style="cursor: pointer">
+        <i class="fa fa-github" aria-hidden="true"></i>
+    </p>
+    <p onclick="window.open('https://scholar.google.com/citations?user=zdF3vTYAAAAJ&hl=zh-CN')" style="cursor: pointer">
+        <i class="ai ai-google-scholar-square" aria-hidden="true"></i>
+    </p>
+    <p onclick="window.open('https://www.researchgate.net/profile/Gang-Liu-87')" style="cursor: pointer">
+        <i class="fa-brands fa-researchgate" aria-hidden="true"></i>
     </p>
 </div>
     
