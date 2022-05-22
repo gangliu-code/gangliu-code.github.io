@@ -75,8 +75,8 @@ You can also find me here:
 <span  onclick="window.open('https://www.researchgate.net/profile/Gang-Liu-87')" style="cursor: pointer">
     <i class="fab fa-fw fa-researchgate"></i>
 </span>
-<!-- ## Typography
 
+<!-- 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
 Here is a table
@@ -98,4 +98,4 @@ Here is a blockquote
 ## References
 
 * Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum -->
+* John Doe: Associate Professor, Department of Computer Science, Ipsum --> 
