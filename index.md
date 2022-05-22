@@ -63,7 +63,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis.
 
-## Misc {#sec}.
+## Misc. {#sec}
 
 You can also find me here: 
 <p>
