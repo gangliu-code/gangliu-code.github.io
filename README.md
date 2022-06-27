@@ -58,3 +58,7 @@ value
 ### License
 
 [GNU GPL v3](https://github.com/bk2dcradle/researcher/blob/gh-pages/LICENSE)
+
+
+### font
+KDD-2022 page: "PT Sans
